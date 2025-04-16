@@ -88,3 +88,31 @@ The user is prompted to enter a choice from the menu. The program will proceed b
 
 
 
+## Demo
+
+```bash
+$ python python_calculator.py
+Enter first number: 5
+Enter operator (+, -, *, /): *
+Enter second number: 3
+Result: 15
+
+
+
+
+## Installation
+
+1. Clone the repo
+```bash
+git clone https://github.com/farzana-bit/Calculator-CLI-version-.git
+cd Calculator-CLI-version-
+
+python python_calculator.py
+
+## Author
+
+- [Farzana](https://github.com/farzana-bit)
+
+
+
+
