@@ -73,8 +73,6 @@ The user is prompted to enter a choice from the menu. The program will proceed b
 #### Example Usage:
 
     1. Start the program and select an operation:
-    Select operation:
-          Select operation:
                 1. Add
                 2. Subtract
                 3. Multiply
